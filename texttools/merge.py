@@ -22,6 +22,7 @@ def merge_files(path_to):
 
     with open(merge_filename, 'w') as mergefile:
         for filename in inventory:
+            print(f"merging {filename}")
             with open(filename) as infile:
                 contents = infile.read()
                 mergefile.write(contents)

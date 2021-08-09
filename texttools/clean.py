@@ -23,6 +23,9 @@ skip_words = [
 
 
 def skip_line(line):
+    if len(line) == 0:
+        return True, False
+        
     l = line.lower()
 
     for word in multi_skip_words:
