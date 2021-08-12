@@ -1,0 +1,62 @@
+# example of a text generation template
+
+namespace: mystic_1 # a sub-folder or namespace for the generated texts
+model: "mystic_v1" # the pre-trained model used to generate the texts with
+
+generate:
+  texts: 3 # number of texts to generate per prompt
+  words: 1200 # number of words per text to generate
+  temperature: 0.75 # the 'model temperature', controlls how eratic the text will be.
+
+prompts: |
+  “We’re not doing that,” she replied cheerfully. “Today we double check the calibrations on your Nerve generate
+
+  The two of them would spend an enjoyable few hours exploring the Town of Beginnings
+
+  Harry looked up from his meal of porridge as Silica sat down at the table he occupied in the small restaurant
+
+  Harry and Silica quickly cleared the teleport gate as the light faded
+
+  “Well, let’s turn in the quest and get back to the inn.”
+
+  The next thirty minutes would be remembered as one of the most chaotic boss fights
+
+  Many recalled a mad charge by Silica and Kirito, the Black Swordsman covering the Dragon Princess
+
+  Albus put the letter down and considered what this meant
+
+  “Headmaster,” Hermione interrupted his thoughts. “What is that?”
+
+  “Ignore them, this is an argument they tend to have.” She said.
+
+  “Harry’s from England, so he has his opinions on what makes a proper beer, being English
+
+  “Hmm, you’re right about it being a dancer’s build, a martial artist’s build. You have small
+
+  “Like a brick shithouse.” Harry said absently
+
+  She then touched her face and started feeling herself over, pausing when her hands
+
+  “He has to have cheated, Lady Sakuya!” Sigurd protested. “There is no way
+
+  “You’re still holding back,” she said. “Not much,
+
+  Keiko saw Harry’s expression as he walked out of the room
+
+  “As okay as I can be, Hermione,” Harry replied and looked
+
+  “Well, there was your wedding,” Ron said. “And bloody hell,
+
+  “Lacking?” Ron asked incredulously. “Bagman couldn’t organize a piss up in a brewery,
+
+  “Yeah,” he said. “See that shop to the side?” “You mean that lingerie shop?” Keiko asked.
+
+  “You mean that lingerie shop?” Keiko asked. “That’s what… I mean, yeah, that one,”
+
+  “Sigurd?” Alicia asked. “A complete ass, yes,” Sakuya agreed
+
+  “Oh, do relax, Asuna,” Miyuki said
+
+  “If you’re trying to be funny, you’re failing worse than Klein’s attempts at getting a date.”
+
+  Silica landed easily as she came back to the city, having gone out and gotten some combat practice
