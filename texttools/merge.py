@@ -22,11 +22,14 @@ def merge_files(path_to):
 
     with open(merge_filename, 'w') as mergefile:
         for filename in inventory:
-            print(f"merging {filename}")
-            with open(filename) as infile:
-                contents = infile.read()
-                mergefile.write(contents)
-                infile.close()
+            if filename.find('.training.txt') != -1:
+                print(f"merging {filename}")
+                with open(filename) as infile:
+                    contents = infile.read()
+                    mergefile.write(contents)
+                    infile.close()
+            else:
+                print(f"skipping {filename}")
     
 
 if __name__ == "__main__":

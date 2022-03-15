@@ -12,7 +12,8 @@ from . import utils
 
 multi_skip_words = [
     'notes:',
-    'summary:']
+    'summary:',
+    '___']
 
 skip_words = [
     'chapter text', 
