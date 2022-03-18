@@ -15,6 +15,10 @@ cd examples
 apc 384316 .
 apc 896640 .
 
+# or
+
+apc input.txt .
+
 cd ..
 
 python -m texttools.merge examples
