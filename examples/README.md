@@ -59,4 +59,8 @@ apc 10814796 .
 apc 10814559 .
 apc 10814484 .
 
+cd ..
+
+python -m texttools.merge examples
+
 ```
