@@ -13,6 +13,7 @@ Training:
 ```
 
 Labels:
-* Hermione Granger
-* Dark Hermione Granger
+* hermione granger
+* dark hermione granger
+* potterverse
 * nsfw
