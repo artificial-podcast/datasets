@@ -1,0 +1,26 @@
+namespace: granger_test 
+model: 
+  name: "granger_nsfw_124" 
+  version: 2
+
+generate:
+  texts: 1
+  words: 1000
+  temperature: 0.75
+
+metadata:
+  labels: potterverse, hermione granger, nsfw
+
+# prompts that start the text generation
+prompts: |
+  Luna was ticklish near her armpits
+
+  She tasted of pudding
+
+  He let the bottoms of his legs rest
+
+  Hermione reached down to run her hand slowly
+
+  Dracos hands moved purposefully across her
+
+  The words sent a shudder through his body

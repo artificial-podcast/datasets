@@ -1,0 +1,38 @@
+namespace: dark_hermione_granger_1
+model: 
+  name: "dark_hermione_granger"
+  version: 1
+
+generate:
+  texts: 1
+  words: 2500
+  temperature: 0.75
+
+metadata:
+  labels: potterverse, dark hermione granger, nsfw
+
+# prompts that start the text generation
+prompts: |
+  Hermione felt her mind slipping away from her
+
+  “Albus, do you really think it is safe to
+
+  Dear Father and Mother he wrote
+
+  “Merlin, you're stupider than we thought if
+
+  Hermione Granger dropped down to the snowy ground,
+
+  Bellatrix Lestrange's eyes looked deep into her own
+
+  The letter from Hogwarts arrived in mid-September
+
+  Harry stared out the window quietly wishing
+
+  "Great a Bi-Polar House Elf,"
+
+  Her exposed breasts bouncing up and down
+
+  Oh Harry wanted this so bad
+
+  She sent him a wink before taking her seat

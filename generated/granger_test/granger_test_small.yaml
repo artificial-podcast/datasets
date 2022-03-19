@@ -1,0 +1,21 @@
+namespace: granger_test 
+model: 
+  name: "granger_nsfw_124" 
+  version: 2
+
+generate:
+  texts: 1
+  words: 500
+  temperature: 0.75
+
+metadata:
+  labels: potterverse, hermione granger, nsfw
+  
+# prompts that start the text generation
+prompts: |
+  Hermione stood in the middle of the street
+
+  So what was she doing working in a tea parlour
+
+  Without a wand, without a family he can reliably count on not
+

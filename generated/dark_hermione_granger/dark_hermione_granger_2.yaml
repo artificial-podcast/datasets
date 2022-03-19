@@ -1,0 +1,19 @@
+namespace: dark_hermione_granger_1
+model: 
+  name: "dark_hermione_granger"
+  version: 1
+
+generate:
+  texts: 2
+  words: 2500
+  temperature: 0.75
+
+metadata:
+  labels: potterverse, dark hermione granger, nsfw
+
+# prompts that start the text generation
+prompts: |
+  RANDOM
+
+  RANDOM
+  
