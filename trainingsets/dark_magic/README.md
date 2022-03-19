@@ -9,7 +9,7 @@ https://archiveofourown.org/works?utf8=%E2%9C%93&work_search%5Bsort_column%5D=re
 Training:
 
 ```shell
-./bin/ml_train.sh dark_magic.txt dark_magic_v1 1000
+./bin/ml_train.sh https://raw.githubusercontent.com/artificial-podcast/datasets/main/trainingsets/dark_magic/dark_magic.txt dark_magic 1000 1
 ```
 
 Labels:
