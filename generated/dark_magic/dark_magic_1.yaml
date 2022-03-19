@@ -1,0 +1,21 @@
+namespace: dark_magic_1
+model: 
+  name: "dark_magic"
+  version: 1
+
+generate:
+  texts: 2
+  words: 2500
+  temperature: 0.75
+
+metadata:
+  labels: dark magic, multi-fandom, potterverse, original work, vampire chronicles, marvel, disney, bangtan boys, shadowhunters, nsfw
+
+# prompts that start the text generation
+prompts: |
+  RANDOM
+
+  RANDOM
+
+  RANDOM
+  
