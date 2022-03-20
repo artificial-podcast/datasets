@@ -1,0 +1,21 @@
+namespace: drow_dnd_critrole_1
+model: 
+  name: "drow_dnd_critrole"
+  version: 1
+
+generate:
+  texts: 3
+  words: 1500
+  temperature: 0.75
+
+metadata:
+  labels: drow, critical role, DnD, forgotten realms, nsfw
+
+# prompts that start the text generation
+prompts: |
+  RANDOM
+
+  RANDOM
+
+  RANDOM
+  
