@@ -1,7 +1,7 @@
 namespace: drow_dnd_critrole_1
 model: 
   name: "drow_dnd_critrole"
-  version: 1
+  version: 2
 
 generate:
   texts: 3
