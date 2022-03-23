@@ -1,11 +1,11 @@
 namespace: granger_test 
 model: 
   name: "granger_nsfw_124" 
-  version: 2
+  version: 3
 
 generate:
   texts: 1
-  words: 1000
+  words: 1500
   temperature: 0.75
 
 metadata:
