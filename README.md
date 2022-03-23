@@ -6,9 +6,9 @@ Texts generated from a GPT-2 model trained on Fanfiction in different fandoms.
 All publicly recognizable characters, settings, etc. are the property of their respective owners. The original characters and plot are the property of the author.
 
 
-#### Examples
+#### Text generation
 
-Start text generation
+Example:
 
 ```yaml
 namespace: test1  # a sub-folder or namespace for the generated texts
@@ -29,9 +29,18 @@ prompts: |
   This is the first prompt
 
   And this is the second prompt
+
+  RANDOM
 ```
 
-Structure of the generated texts
+##### RANDOM
+
+A prompt line `RANDOM` triggers, as the name suggest, the creation of a random text without supplying a prompt.
+
+
+#### Structure of the generated texts
+
+Example:
 
 ```yaml
 ---
