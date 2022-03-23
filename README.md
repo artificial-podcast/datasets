@@ -1,4 +1,4 @@
-## Datasets
+## datasets
 Texts generated from a GPT-2 model trained on Fanfiction in different fandoms.
 
 ### Disclaimer
