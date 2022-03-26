@@ -4,8 +4,8 @@ model:
   version: 1
 
 generate:
-  texts: 2
-  words: 2500
+  texts: 3
+  words: 1500
   temperature: 0.75
 
 metadata:
